@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+### Welcome to Kony Website
 
-You can use the [editor on GitHub](https://github.com/PsHye/Kony/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a 23 years old, Videogame Developer, Programmer and Artist from Córdoba Argentina
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Activities
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I make website and desktop models, in different languages (C#, Java, Python), 
 
 ```markdown
 Syntax highlighted code block
